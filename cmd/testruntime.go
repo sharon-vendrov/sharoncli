@@ -5,7 +5,7 @@ Copyright © 2019 Sharon Vendrov <sharon.vendrov1@gmail.com>
 package cmd
 
 import (
-	"github.com/sharon-ven/sharoncli/pkg/logic"
+	"github.com/sharon-vendrov/sharoncli/pkg/logic"
 	"github.com/spf13/cobra"
 )
 

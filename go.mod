@@ -1,4 +1,4 @@
-module github.com/sharon-ven/sharoncli
+module github.com/sharon-vendrov/sharoncli
 
 go 1.12
 
