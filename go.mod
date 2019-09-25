@@ -1,6 +1,6 @@
 module github.com/sharon-vendrov/sharoncli
 
-go 1.12
+go 1.13
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.1.0 // indirect
@@ -32,3 +32,5 @@ require (
 	sigs.k8s.io/kind v0.5.1
 	sigs.k8s.io/kustomize v2.0.3+incompatible // indirect
 )
+
+replace github.com/census-instrumentation/opencensus-proto v0.1.0-0.20181214143942-ba49f56771b8 => github.com/census-instrumentation/opencensus-proto v0.0.3-0.20181214143942-ba49f56771b8
