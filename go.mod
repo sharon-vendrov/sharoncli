@@ -3,7 +3,7 @@ module github.com/sharon-vendrov/sharoncli
 go 1.13
 
 require (
-	github.com/census-instrumentation/opencensus-proto v0.1.0 // indirect
+	contrib.go.opencensus.io/exporter/ocagent v0.4.7
 	github.com/codefresh-io/go-sdk v0.16.0
 	github.com/codefresh-io/venona/venonactl v0.0.0-20190815092312-094052ae2519
 	github.com/docker/spdystream v0.0.0-20160310174837-449fdfce4d96 // indirect
