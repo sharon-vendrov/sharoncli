@@ -20,7 +20,7 @@ require (
 	github.com/spf13/viper v1.4.0
 	golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc // indirect
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a // indirect
-	golang.org/x/sys v0.0.0-20190922100055-0a153f010e69 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/utils v0.0.0-20190920012459-5008bf6f8cd6 // indirect
